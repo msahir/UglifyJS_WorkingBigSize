@@ -15,6 +15,7 @@ import ro.isdc.wro.util.WroUtil;
 
 
 public class UglifyJSUtil {
+	//comment1
 
 	private final boolean uglify = true;
 	private static final String DEFAULT_UGLIFY_JS = "/resources/uglify-1.0.6.min.js";
